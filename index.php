@@ -17,10 +17,10 @@
         <label>User Name</label>
         <input type="text" name = "uname" placeholder="user name">
         <br>
-        <label for="">Password</label>
+        <label for="">User password</label>
         <input type="password" name="password" placeholder="user password">
         <br>
-        <button type="submit"> Submit</button>
+        <button type="submit"> Login</button>
     </form>
 </body>
 </html>
